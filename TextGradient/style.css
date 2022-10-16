@@ -1,0 +1,9 @@
+#randomgrad {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color:transparent;
+}
